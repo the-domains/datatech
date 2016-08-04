@@ -1,0 +1,14 @@
+layout_spectrum: 0.48449545120820403
+typography_spectrum: 0.33788434066809714
+color:
+  brandStrength: 0.026150855934247375
+  lightness: 0.36660966789349914
+  saturation: 0.9434145272243768
+  rhythmicContrast: 0.6957382874097675
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Datatech
