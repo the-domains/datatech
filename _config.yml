@@ -1,4 +1,3 @@
-layout_spectrum: 0.48449545120820403
 typography_spectrum: 0.33788434066809714
 color:
   brandStrength: 0.026150855934247375
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.48449545120820403
 name: Datatech
 title: Sérhæfð gagnabjörgun
+description: Stofnað 2012
