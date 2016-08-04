@@ -6,9 +6,10 @@ color:
   saturation: 0.9434145272243768
   rhythmicContrast: 0.6957382874097675
   brandColors:
-    - '#FFFFFF'
-    - '#8C8C8C'
-    - '#46ACE1'
-    - '#BABABA'
-    - '#D4D4D4'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Datatech
+title: Sérhæfð gagnabjörgun
